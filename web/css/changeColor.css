@@ -1,0 +1,21 @@
+.myPagination > .active > a, .myPagination > .active > span, .myPagination > .active > a:hover, .myPagination > .active > span:hover, .myPagination > .active > a:focus, .myPagination > .active > span:focus {
+    z-index: 2;
+    color: #ffffff;
+    cursor: default;
+    background-color: #556590; !important;
+    border-color: #556590; !important;
+}
+
+a {
+    color: #506088; !important;
+    text-decoration: none;
+}
+
+.btn-my {
+    color: #ffffff;
+    background-color: #506088;
+    border-color: #506088;
+}
+
+
+
